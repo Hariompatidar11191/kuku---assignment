@@ -1,0 +1,251 @@
+Cell: +91 9510122995
+Tel: 079-40030031
+E-mail : cyberlawadvocate@gmail.com
+cyberlawcourse.ahmedabad@gmail.com
+
+
+Home
+ 
+About Us
+ 
+Services
+ 
+Programs   
+ 
+Clients
+ 
+Case Studies
+ 
+Awards & Recognition
+ 
+Start Up Consulting
+ 
+Reach Us
+ 
+Blog
+Cyber Law Services India
+You are here: Home Services
+
+Cyberra Legal Services is a premier organization in cyber law advisory, cyber crime consultancy, cyber law compliance audit, cyber security services, cyber forensics services and cyber trainings (law, security & forensics) since 2003. It is Ahmedabad based and the first of its kind of venture in Gujarat with key personals who are technology graduates (IT, Security & Forensic), law graduates, masters in cyber laws & ethical hackers.
+
+Cyberra Legal Services began with main objective to provide end to end solutions in Cyber world issues by providing services like
+
+Drafting all types of Techno-legal Agreements for various emerging technologies based businesses like web, apps, e-commerce, e-governance, cloud computing, mobile computing, grid computing, virtual currency, block chain, IoT, Big data, AIML, Fin-tech, SEO, SMM and others
+Preventive Cyber Legal & Information Security Services for managing internal cyber threats from employees, consultants, service providers and others
+Cyber Consulting Services for Information Security Practices as per various International & Indian Frameworks like ISO 27001, ISO 22301, GDPR, HIPAA, Indian I.T.Act,2000, PCI-DSS, PA-DSS, RBI cyber security frameworks, NPCI and other relevant standards
+Cyber Crime Detection, Investigation and Digital Forensic Services
+Electronic Evidence Gathering, Preservation, Hash Value Report and Section 65B Certification services
+Full Litigation Support Services for Cyber Crimes in special cyber courts for compensation claims as well in regular courts
+Encrypted Storage Services
+Mobile Application Security Audit
+Web Application Security Audit
+Network Security Audit
+End to End Services for Cyber Insurance and other Liability Insurance.
+
+List of cyber law services offered by CLS
+
+1. Drafting all types of Techno-legal Agreements for various emerging technologies based businesses like web, apps, e-commerce, e-governance, cloud computing, mobile computing, grid computing, virtual currency, block chain, IoT, Big data, AIML, Fin-tech, SEO, SMM and others
+
+HARDWARE AGREEMENTS:
+
+
+SALE & PURCHASE
+RENTAL
+LEASE
+PRICE & PAYMENTS
+DELIVERY & ACCEPTANCE
+INSTALLATION
+TESTING
+MAINTENANCE
+MARKETING & DISTRIBUTION
+
+
+SOFTWARE AGREEMENTS:
+
+
+DEVELOPMENT
+INSTALLATION
+TESTING
+ERROR DETECTION & CORRECTION
+UPDATION & MODIFICATION
+MULTIPLE COPY RIGHTS
+ASSIGNMENT OF A COPYRIGHT IN A SOFTWARE
+ESCROW AGREEMENT
+JOINT SOFTWARE DEVELOPMENT
+
+
+WEBWARE AGREEMETNS:
+
+
+DESIGN & DEVELOPMENT
+HOSTING
+ISP
+CONTENT LICENSING
+UPDATION & MODIFICATION
+B2C APPLICATIONS
+B2B APPLICATIONS
+SUPPLY OF WEBPAGES
+IPR IN RELATION TO A WEBSITE
+
+
+GENERIC AGREEMENTS:
+
+
+NETWORK SERVICES AGREEMENT
+CONFIDENTIALITY AGREEMENT
+BPO AGREEMENT
+EMPLOYEE PRIVACY AGREEMENT
+
+
+
+2. Preventive Cyber Legal & Information Security Services for managing internal cyber threats from employees, consultants, service providers and others:
+
+
+
+
+3. Cyber Consulting Services for Information Security Practices as per various International & Indian Frameworks like ISO 27001, ISO 22301, GDPR, HIPAA, Indian I.T.Act,2000, PCI-DSS, PA-DSS, RBI cyber security frameworks, NPCI and other relevant standards
+
+ISO 27001 ISMS services
+ISO 22301 BCMS services
+GDPR General Data Protection Regulation services
+HIPAA Health Insurance Portability & Accountability Act services
+PCI-DSS Payment Card Industry Data Security services
+PA-DSS Payment Application Data Security services
+RBI Reserve Bank of India Cyber Security Framework services
+NPCI National Payment Corporation of India Cyber Security Framework services
+
+
+
+4. Cyber Crime Detection, Investigation and Digital Forensic Services
+
+SOURCE CODE THEFT OR TEMPERING
+DATA THEFT
+DIGITAL/ONLINE REPUTATION ATTACKS
+E-COMMERCE FRAUDS
+RANSOMWARE/MALWARE ATTACKS
+E-MAIL FORGERY AND FINANCIAL FRAUDS
+E-MAIL HACKING AND FINANCAIL FRAUDS
+CLOUD COMPUTING ATTACKS
+ACCOUNTING FRAUDS
+CREDIT CARD FRAUDS
+FORGERY AND COUNTERFEITING
+CYBER PORNOGRAPHY CASE
+DIVORCE CASE
+KIDNAPPING AND MURDER CASE
+TAX EVASION AND MONEY LAUNDERING
+INTERNET PHISHING
+CYBER SABOTAGE CASE
+ONLINE BANKING FRAUDS
+TYPOSQUATTING FRAUDS
+ONLINE SHARE TRADING FRAUDS
+TRACKING THE AUTHOR OF VIRUS
+TRACKING A TERRORIST
+ONLINE LOTTERY FRAUDS
+BPO FRAUDS
+DOMAIN NAME DISUTES
+SPAMMING
+COMMUNITY STANDARDS
+ONLINE EDUCATION FRAUDS
+E-CONSUMER FRAUDS & E-CONSUMER PROTECTION
+ISP LIABILITY
+IPR VIOLATIONS ON INTERNET
+DIGITAL SIGNATURE FRAUDS
+INTERNET TIME MISUE
+HACKING AND CRACKING FRAUDS
+VIRUS ATTACKS
+ONLINE PIRACY
+SOFTWARE PIRACY
+
+
+
+5. Electronic Evidence Gathering, Preservation, Hash Value Report and Section 65B Certification services
+
+We provide end to end services for Electronic Evidence Gathering and Analysis using latest tools of digital forensics.
+
+Further, Section 65B certificate is required in order to prove the authenticity & integrity of electronic evidence in court of law. It is one of the major prerequisites for the admissibility of electronic evidence. In today’s world the ambit of technology is transcending each and every domain at rampant pace. It is not only becoming difficult to distinguish between the category of this evidence, this also requires specialize expertise and understanding of the ever-changing technology.
+
+We provide 65B certificate along with Hash Value Report to legal professionals, law enforcement agencies, practitioners & end users for Audio/Video Transcript, Email/Social media/App Conversations. We also provide Expert Witness and Testimony services.
+
+6. Full Litigation Support Services for Cyber Crimes in special cyber courts for compensation claims as well in regular courts
+
+Special Cyber courts of Adjudicating Authority under I.T.Act,2000
+Cyber Appellate Tribunal under I.T.Act,2000
+Trial Courts
+Apex Courts
+Cyber Arbitration and Dispute Resolution services
+
+
+
+7. Encrypted Storage Services
+
+Encrypted Hard Drives
+Encrypted Pen Drives
+Finger Print Enabled Pen Drives
+Secured Data Destruction Services
+
+
+
+8. Mobile Application Security Audit
+
+Mobiles are enjoying an ever increasing popularity for today’s world. The phones are increasingly used to surf the Internet, store private information, access corporate network /confidential company information. Not only this they are also used to process such confidential information considering the computing power that they have these days. All of such features make smartphones an attractive target for Trojans, Malware, Phishing attacks and many more specially crafted attacks. The team at CLS prepares the organisations tackle such mobile security issues across all platforms.
+
+9. Web Application Security Audit
+
+The team at CLS assists its clients in improving the security of the software which they develop, outsource or purchase off-the-shelf. Our consultants help the enterprises to improve their security at every level of the life cycle i.e. in the design phase, implementation phase or even when the software is running in the production environment. The solutions provided by us help the enterprise understand the implications from business as well as security perspective.
+
+10. Network Security Audit
+
+Network Security audit is categorized into two vital areas of information. The first areas is the static data which would cover the system definitions, protocols used to communicate, password rules, firewall definitions etc. whereas the second category looks into the activities, events that have taken place which would cover areas such as database access, file transfers, sharing ,system log on etc. are some of the times that will be looked into the network audit. Such broad perspective will help organizations defend against external as well as internal threats.
+
+11. End to End Services for Cyber Insurance and other Liability Insurance
+
+Cyber Insurance is an emerging insurance product which protects businesses across sectors like IT & ITes, Importers – Exporters, Mfg. Units like Pharma, Chemical, Textile, Jewellers, Auto, BFSI and other Govt. bodies from internet-based risks like cyber frauds, ransomwares, phishing attacks etc.
+
+It shall have following coverages:
+
+A. Electronic Theft Loss
+B. Electronic Communication Loss
+C. Electronic Threat Loss
+D. Electronic Vandalism Loss
+E. Electronic Business Interruption & Extra Expenses
+
+
+
+Please contact us for more details.
+
+
+
+
+
+Links
+Home
+About Us
+Services
+Programs
+- IEEE Mobile Security Program
+- IEEE Cyber Program
+- GNLU-GESIA Program
+- DA-IICT Program February
+- DA-IICT Program June
+Clients
+Case Studies
+Awards & Recognition
+Start Up Consulting
+Contact Us
+Blog
+Contact Details
+
+Phone:
+079-40030031 , +91 9510122995
+
+Email:
+cyberlawcourse.ahmedabad@gmail.com cyberlawadvocate@gmail.com
+
+Address
+
+2nd Floor, Asha Complex,
+B/h. Navrangpura Police Station,
+Navrangpura, Ahmedabad,
+Gujarat, India, 380 009.
+
+© Copyright 2026 by Cyberra Legal Services. All Rights Reserved.

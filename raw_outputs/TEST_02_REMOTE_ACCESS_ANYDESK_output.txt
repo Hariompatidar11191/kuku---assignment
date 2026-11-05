@@ -1,0 +1,60 @@
+TEST CASE ID: TEST_02_REMOTE_ACCESS_ANYDESK
+SCENARIO TITLE: Fake Customer Care Remote Screen-Share Scam
+USER QUERY: Maine Google se ek courier company ka customer care number nikala tha. Unhone mujhe AnyDesk app download karne ko bola aur mere phone ka access leke ₹85,000 transfer kar liye. Kaunsi dhara lagegi?
+LANGUAGE: hinglish
+TIMESTAMP: 2026-11-06T01:14:13.878653
+RETRIEVAL RECALL: 100.0%
+
+======================================================================
+VERIFIED RETRIEVED SOURCES:
+======================================================================
+[1] Information Technology Act, 2000 - Section 66D
+    Title: Punishment for cheating by personation by using computer resource
+    Authority: Parliament of India | Effective: 2008-10-27
+    Official URL: https://www.meity.gov.in/content/information-technology-act-2000
+
+[2] Reserve Bank of India - Financial Education Series - RBI BE(A)WARE Booklet on Modus Operandi of Financial Frauds
+    Title: Comprehensive Modus Operandi of Digital Banking Frauds
+    Authority: Reserve Bank of India (RBI) | Effective: 2022-03-07
+    Official URL: https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=53381
+
+[3] Legal Research Document: web_page_text (58).txt - web_page_text (58).txt (Part 4)
+    Title: Legal Research Document: web_page_text (58).txt - Section 4
+    Authority: Government of India / RBI / Judicial Authorities | Effective: 2024-01-01
+    Official URL: https://cybercrime.gov.in
+
+[4] Cyber Crime & Digital Evidence - Indian Perspective - Real World Case Studies (Asian School of Cyber Laws)
+    Title: Real-World Cybercrime Case Studies & Digital Evidence Preservation
+    Authority: Asian School of Cyber Laws / Judicial Precedents | Effective: 2020-01-01
+    Official URL: https://asianlaws.org
+
+[5] Legal Research Document: web_page_text (51).txt - web_page_text (51).txt (Part 2)
+    Title: Legal Research Document: web_page_text (51).txt - Section 2
+    Authority: Government of India / RBI / Judicial Authorities | Effective: 2024-01-01
+    Official URL: https://cybercrime.gov.in
+
+
+======================================================================
+UNEDITED ASSISTANT RESPONSE:
+======================================================================
+### 🛡️ Aapke Legal Rights aur Action Plan
+
+Aapke saath jo fraud hua hai (the defrauded amount), usme Indian Law aur RBI ke regulations clearly aapko safeguard karte hain:
+
+#### 1. Kaunse Kanoon Lagu Hote Hain:
+- **RBI Circular RBI/2017-18/15 (Zero Liability Rule):** Agar aapne 3 working days me report kiya hai aur credentials voluntarily share nahi kiye, toh **aapki liability ZERO hai**. Paragraph 12 ke mutabik proof ka burden BANK par hai.
+- **BNS, 2023 - Section 318:** Online cheating aur financial fraud (IPC 420 replacement).
+- **IT Act, 2000 - Section 66D:** Impersonation aur fake identity fraud (3 saal tak ki jail).
+
+#### 2. Turant Lene Wale Steps:
+- **Helpline 1930:** Turant 1930 par call karein ya [cybercrime.gov.in](https://cybercrime.gov.in) par report karein taaki mule account freeze ho sake.
+- **Formal Notice:** Tab 2 se formal bank dispute notice download karke bank me submit karein.
+
+---
+#### ❓ Case ko accurately solve karne ke liye please in 3 sawalon ka jawab dein:
+1. **Timeline:** Fraud kis date ko hua tha aur aapne bank ko kab inform kiya (3 working days ke andar)?
+2. **Modus Operandi:** Kya kisi fake customer care ne AnyDesk/QuickSupport install karwaya tha ya account directly debit hua?
+3. **Complaint Proof:** Kya aapke pass bank ki taraf se koi Ticket ID / Grievance number hai?
+
+⚠️ *Legal Disclaimer: Yeh guidance informational purposes ke liye hai.*
+

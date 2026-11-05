@@ -1,0 +1,206 @@
+Our Solutions
+PlansPartners
+Resources
+About Us
+CareersContact
+Login
+Report an Incident
+EN
+CASE STUDY
+A Hidden Tunnelling Service Sustains Weeks of Access at an Asia-Pacific Financial Services Firm
+Published on
+29 October 2026
+Last updated on
+29 October 2026
+An intruder moved through a firm and its affiliate for almost a month, sending around 200 GB through a tunnel before deleting backups and encrypting.
+
+‍
+
+Key facts
+
+Organisation
+Asia-Pacific financial services firm
+Threat
+BEAST ransomware, preceded by weeks of hidden remote access and bulk file copying
+Initial access
+Not determined; the earliest evidenced activity was a password change on a firewall VPN user account
+Impact
+Staff computers, a virtual-server host and two storage devices encrypted; backups deleted; around 200 GB sent through an attacker tunnel
+Core issue
+Password-only SSL-VPN access, end-of-support firewall software and a flat internal network
+
+What this case shows
+
+A firewall that keeps logs only in memory can erase the evidence of how an attacker got in.
+Remote-access tools installed by an attacker give them a way back that does not depend on the original entry point.
+Backups reachable from staff computers can be deleted with the same access used to deploy ransomware.
+A trusted link to an affiliated company extends an incident across both organisations.
+
+If your remote access still depends on a password alone, talk to our emergency incident response team or start with incident response preparation.
+
+‍
+
+What this would have cost with Blackpanda IR-1 in place
+
+	ODIR	IR-1
+Type of engagement	On-demand incident response	Yearly subscription
+Hours covered	115 hours	Unlimited*
+Pricing1	USD $57,500	USD $5,750
+
+* Unlimited for one incident per year
+
+1 Ad-hoc incident response pricing based on average market rates, from USD 500 per hour. Blackpanda IR-1 subscription pricing based on no. of endpoints, costing approx. 10x less than ad-hoc and retainer-based incident response. All figures are illustrative only, for guidance and marketing purposes and not to be relied upon by the reader. Actual incident response costs vary by scope, complexity, and provider.
+
+‍
+
+CHALLENGE
+
+The organisation's network was joined to that of an affiliated company through a site-to-site VPN tunnel between their firewalls, and staff reached the environment remotely through SSL-VPN access protected by a password alone. Both firewalls ran software past the end of vendor support and affected by known SSL-VPN vulnerabilities, including CVE-2022-42475, CVE-2023-27997 and CVE-2024-21762, all of which have been exploited in the wild. Internally, the network was flat: servers and backups were reachable from any staff computer.
+
+In July 2026, the earliest activity that could be evidenced was a password change on a firewall VPN user account. Shortly afterwards, connections originating from a firewall address attempted to log on to staff computers, one of which subsequently succeeded with a domain administrator account. A tunnelling service was then installed on several staff computers, allowing the threat actor to return at will, and a commercial remote-desktop tool was used to maintain access.
+
+Over the following weeks, company folders were browsed, including an affiliated company's deal, human resources and payroll folders, and file-copying tools were run against the main shares, covering client, finance, human resources and IT data. Byte counters on two staff computers recorded around 200 gigabytes sent through the tunnel. Finally, the backups held on the storage devices were deleted, and several staff computers, a virtual-server host running a number of servers including a domain controller, and two network storage devices were encrypted with BEAST ransomware, whose ransom notes claimed that data had been stolen. The organisation engaged Blackpanda days later.
+
+‍
+
+SOLUTION
+
+1. Scoped the investigation across both connected environments
+
+Because the two organisations' networks were joined at the firewall, Blackpanda scoped the investigation across both environments, collecting forensic evidence from staff computers, the virtual-server host, storage devices and domain controllers where available. However, several systems the threat actor reached, including further storage devices, domain controllers and a staff computer, were not provided for examination, and whether they were encrypted could not be determined.
+
+2. Reconstructed the intrusion from endpoint evidence after firewall logs were lost
+
+Both firewalls held their logs in memory only, and a firmware upgrade completed before the engagement had rebooted them, erasing all traffic and VPN authentication logs. Consequently, Blackpanda reconstructed the intrusion from endpoint artefacts, establishing the earliest evidenced activity, the logon sequence that followed and the tools installed, while recording that the root cause could not be confirmed.
+
+3. Quantified the data transfer from per-program byte counters
+
+Byte counters maintained by the operating system for each program were used to measure the volume sent through the tunnel from two staff computers. These counters record volume per program rather than filenames or destinations.
+
+4. Prioritised removal of the threat actor's means of return
+
+Because the tunnelling service and remote-desktop tool provided routes back that were independent of the original entry point, Blackpanda's priority recommendations were to remove those tools from every computer, deploy endpoint detection and response (EDR) across the estate, and require multi-factor authentication (MFA) on all remote access.
+
+‍
+
+RESULTS
+
+1. Reconstructed almost a month of threat-actor activity without firewall logs
+
+Endpoint evidence established the sequence from the first evidenced VPN account change, through hidden remote access and bulk file copying, to backup deletion and encryption.
+
+2. Identified the threat actor's persistent routes back into the network
+
+The tunnelling service and commercial remote-desktop tool were identified on the affected staff computers, defining what had to be removed before those systems could be trusted again.
+
+3. Bounded the data-loss question to what the evidence supports
+
+Blackpanda recorded the volume sent through the tunnel while stating plainly that the content and destination of that data could not be determined, giving the organisation an accurate basis for its notification decisions.
+
+4. Closed the exposed remote-access path
+
+Before forensic work began, the organisation had powered off its storage devices, reset firewall administrator and virtual-server credentials, disabled the SSL-VPN, upgraded both firewalls and blocked the storage devices from reaching the internet.
+
+Although the root cause could not be confirmed, every condition that allowed this intrusion to succeed and spread is one an organisation can correct in advance. Multi-factor authentication on all remote access removes the value of a single password; firewall software kept within vendor support closes known SSL-VPN vulnerabilities before they are exploited; logs forwarded off the firewall to a central platform preserve the record that a reboot would erase; and segmentation that places servers and backups beyond the reach of staff computers limits what any one compromised account can destroy.
+
+‍
+
+FREQUENTLY ASKED QUESTIONS
+
+1. Is a password enough to protect remote access to our network?
+
+No. A password can be phished, reused from another breach or guessed, and on its own it is the only barrier between the internet and the internal network. Requiring multi-factor authentication on every remote-access login means a stolen password alone no longer grants entry. A Singapore investment firm lost two million files after a single password leak.
+
+2. Why does it matter whether our firewall is still supported by its vendor?
+
+Once software passes the end of vendor support, newly discovered vulnerabilities in it are no longer fixed, so every flaw published afterwards remains permanently open. Firewalls sit at the network edge, which makes their remote-access components a frequent target. Tracking support dates and upgrading or replacing devices before they lapse keeps the perimeter patchable.
+
+3. If attackers copied our data, can investigators always tell what they took?
+
+Not always. File-copying and tunnelling tools often leave little record of individual files, and without network logs the destination may be unknown, so an investigation may establish how much data left without establishing what it was. Logging at the network edge and on servers, retained off the device, is what makes a precise answer possible. A Hong Kong retail group saw 70,000 files posted to a public leak site.
+
+4. Does a network connection to an affiliated company increase our risk?
+
+Yes, when the link is trusted without restriction. A site-to-site VPN tunnel that allows any traffic between two networks lets an intrusion in one reach the other, so an incident at either company becomes an incident at both. Limiting the link to the specific systems and services that need it, and monitoring the traffic across it, contains that risk.
+
+5. What should we do if we find unfamiliar remote-access software on staff computers?
+
+Treat it as a sign of compromise until proven otherwise:
+
+Do not simply uninstall it: preserve the computer for investigation first, since the software's records may show when and how it was used.
+Check the rest of the estate: the same tool is rarely installed on a single machine.
+Reset credentials used on affected machines: administrator and VPN accounts first.
+Bring in responders: report an incident to Blackpanda so that the scope is established before evidence is lost.
+
+6. How can we keep backups out of an attacker's reach?
+
+Backups stored on devices that staff computers and servers can reach will be found and deleted by an attacker who gains administrative access. Placing backup storage on a separate network segment with its own credentials, and keeping at least one immutable or offline copy, ensures that a restore point survives. Restoring from that copy on a regular schedule confirms it will work when it is needed.
+
+WHAT THIS MEANS FOR YOUR ORGANISATION
+
+This intrusion followed a pattern familiar from ransomware operations against mid-sized firms: an edge device guarded by a single password, a quiet period of reconnaissance and file copying conducted through tools that look legitimate, and a final phase in which backups are removed before encryption begins. The longer that middle phase runs undetected, the more data leaves and the fewer recovery options remain.
+
+Two priorities follow. Organisations should confirm that every remote-access path requires multi-factor authentication and that every edge device remains within vendor support, and a compromise assessment will also establish whether an attacker is already inside. Equally, response needs to start before logs and evidence disappear, which is what an IR-1 subscription is built to guarantee for your organisation.
+
+‍
+
+ABOUT BLACKPANDA
+
+Blackpanda is Asia's leading cyber incident response company, delivering digital emergency response across three integrated channels: IR consulting, IR-1 assurance subscriptions, and Lloyd's of London-underwritten cyber insurance. Each is purpose-built for a different buyer, whether enterprise, mass market, or sophisticated risk-transfer clients, and each stands alone as full incident response. Together, these channels reach the entire commercial market, because our mission is to provide digital emergency response for everyone. Buy all three and they combine into the complete post-attack recovery solution: preparation in advance, response the moment you're hit, and financial recovery paid for by insurance. One local team to help you get ready, respond, and recover.
+
+Other Case Studies
+CASE STUDIES
+A Hidden Tunnelling Service Sustains Weeks of Access at an Asia-Pacific Financial Services Firm
+
+An intruder moved through a firm and its affiliate for almost a month, sending around 200 GB through a tunnel before deleting backups and encrypting.
+
+View case study
+CASE STUDIES
+Asia-Pacific Manufacturer Faces Two-Month Intrusion via Hidden Backdoors Disguised as Vendor Services
+
+Backdoors posing as vendor services sat in storage for almost two months before encryption reached the hypervisors and the backups were erased.
+
+View case study
+View all
+Related articles
+REACT & RESPOND
+
+What Is Incident Response?
+
+And why every business needs a cyber fire department.
+
+PROTECT & DEFEND
+AI Is Changing the Speed of Cyberattacks — Not the Fundamentals
+
+The fundamentals have not changed. The speed has.
+
+NEWS
+Blackpanda and CyberCube Collaborate to Bring Cyber Risk Analytics to Brokers Across Asia
+
+Blackpanda will refer brokers to CyberCube's Broking Manager and license the platform across its regional network, backed by local incident response support for brokers' clients.
+
+View all
+Our Solutions
+IR-1
+Attack Surface Readiness (ASR)
+Cyber Insurance
+Incident Response Consulting Services
+Incident Response Preparation
+Incident Response
+Compromise Assessment
+Digital Forensics
+Plans
+IR Subscriptions
+Our Partners
+Resources
+Blackpanda Blog
+Case Studies
+About Us
+Who We Are
+Our Team
+Our Tribe
+Join our Tribe
+Information
+Contact Us
+Legal
+Copyright © 2026 by Blackpanda Pte Ltd. All Rights Reserved.

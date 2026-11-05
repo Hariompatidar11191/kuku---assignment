@@ -1,0 +1,60 @@
+TEST CASE ID: TEST_05_LOAN_APP_HARASSMENT
+SCENARIO TITLE: Illegal Chinese Loan App Extortion & Morphed Photos
+USER QUERY: An instant loan app accessed my gallery and contacts. Now recovery agents are sending morphed obscene photos to my family members on WhatsApp demanding extortion money. What legal action can I take immediately?
+LANGUAGE: english
+TIMESTAMP: 2026-11-06T01:14:15.145335
+RETRIEVAL RECALL: 100.0%
+
+======================================================================
+VERIFIED RETRIEVED SOURCES:
+======================================================================
+[1] Information Technology Act, 2000 - Section 66E
+    Title: Punishment for violation of privacy
+    Authority: Parliament of India | Effective: 2008-10-27
+    Official URL: https://www.meity.gov.in/content/information-technology-act-2000
+
+[2] Indian Legal Document: Chapter-6_1.pdf - Chapter-6_1.pdf (Part 3)
+    Title: Indian Legal Document: Chapter-6_1.pdf - Section 3
+    Authority: Government of India / RBI / Judicial Authorities | Effective: 2024-01-01
+    Official URL: https://cybercrime.gov.in
+
+[3] Cyber Crime & Digital Evidence - Indian Perspective - Real World Case Studies (Asian School of Cyber Laws)
+    Title: Real-World Cybercrime Case Studies & Digital Evidence Preservation
+    Authority: Asian School of Cyber Laws / Judicial Precedents | Effective: 2020-01-01
+    Official URL: https://asianlaws.org
+
+[4] Legal Research Document: web_page_text (58).txt - web_page_text (58).txt (Part 4)
+    Title: Legal Research Document: web_page_text (58).txt - Section 4
+    Authority: Government of India / RBI / Judicial Authorities | Effective: 2024-01-01
+    Official URL: https://cybercrime.gov.in
+
+[5] Legal Research Document: web_page_text (57).txt - web_page_text (57).txt (Part 1)
+    Title: Legal Research Document: web_page_text (57).txt - Section 1
+    Authority: Government of India / RBI / Judicial Authorities | Effective: 2024-01-01
+    Official URL: https://cybercrime.gov.in
+
+
+======================================================================
+UNEDITED ASSISTANT RESPONSE:
+======================================================================
+### 🛡️ Legal Rights & Statutory Protection
+
+Regarding the unauthorized financial debit (the defrauded amount), here is your legal standing under Indian statutory law and Reserve Bank of India (RBI) directions:
+
+#### 1. Core Statutory & Regulatory Provisions:
+- **RBI Master Circular RBI/2017-18/15:** Guarantees **Zero Customer Liability** when notified within 3 working days. Under Paragraph 12, the burden of proving customer liability lies strictly **ON THE BANK**.
+- **Bharatiya Nyaya Sanhita (BNS), 2023 - Section 318:** Criminalizes dishonest inducement and fraudulent cyber transactions (replacing Section 420 IPC).
+- **Information Technology Act, 2000 - Section 66D:** Penalizes cheating by personation and phishing with up to 3 years imprisonment.
+
+#### 2. Immediate Protective Steps:
+- **Dial 1930 (Golden Hour):** Trigger the Citizen Financial Cyber Fraud Reporting System to freeze suspect mule accounts.
+- **Issue Bank Notice:** Navigate to **Tab 2** to download your formal dispute notice.
+
+---
+#### ❓ To tailor the exact legal remedy for your case, please answer these 3 quick questions:
+1. **Timeline:** Exactly what date did the transaction occur, and on what date did you first notify the bank (within 3 days)?
+2. **Method of Fraud:** Did a caller deceive you into installing AnyDesk/TeamViewer, or did the debit happen without any interaction?
+3. **Current Grievance Status:** Did the bank issue a formal Ticket ID / Reference Number, and have you filed on cybercrime.gov.in?
+
+⚠️ *Legal Disclaimer: This guidance is for educational and dispute-resolution purposes under Indian law.*
+

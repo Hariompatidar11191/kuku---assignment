@@ -1,0 +1,60 @@
+TEST CASE ID: TEST_04_POLICE_JURISDICTION_REFUSAL
+SCENARIO TITLE: Police Refusal to Register Cyber FIR on Jurisdiction Grounds
+USER QUERY: मैं अपने नजदीकी पुलिस थाने में ₹75,000 के साइबर फ्रॉड की एफआईआर दर्ज कराने गया था, लेकिन पुलिसकर्मियों ने कहा कि जिस खाते में पैसा गया है वह दूसरे राज्य (जामताड़ा) का है, इसलिए वे एफआईआर नहीं लिखेंगे। क्या वे मना कर सकते हैं?
+LANGUAGE: hindi
+TIMESTAMP: 2026-11-06T01:14:14.801257
+RETRIEVAL RECALL: 50.0%
+
+======================================================================
+VERIFIED RETRIEVED SOURCES:
+======================================================================
+[1] Bharatiya Nagarik Suraksha Sanhita, 2023 - Section 173
+    Title: Information in cognizable cases (Zero FIR & e-FIR) (Replacing Section 154 CrPC)
+    Authority: Parliament of India | Effective: 2024-07-01
+    Official URL: https://www.mha.gov.in/en/acts-and-rules/bharatiya-nagarik-suraksha-sanhita-2023
+
+[2] Shaurya Sunil Kumar Singh v. CBI (Supreme Court of India, 2026) - 56d69bdea2f4cdfa4dda16bb613e53c73a5caffa06e16588cc844b6d74bc8f5f1793904717.pdf (Part 4)
+    Title: Shaurya Sunil Kumar Singh v. CBI (Supreme Court of India, 2026) - Section 4
+    Authority: Government of India / RBI / Judicial Authorities | Effective: 2024-01-01
+    Official URL: https://cybercrime.gov.in
+
+[3] Shaurya Sunil Kumar Singh v. CBI (Supreme Court of India, 2026) - 56d69bdea2f4cdfa4dda16bb613e53c73a5caffa06e16588cc844b6d74bc8f5f1793904717.pdf (Part 1)
+    Title: Shaurya Sunil Kumar Singh v. CBI (Supreme Court of India, 2026) - Section 1
+    Authority: Government of India / RBI / Judicial Authorities | Effective: 2024-01-01
+    Official URL: https://cybercrime.gov.in
+
+[4] Legal Research Document: web_page_text (53).txt - web_page_text (53).txt (Part 2)
+    Title: Legal Research Document: web_page_text (53).txt - Section 2
+    Authority: Government of India / RBI / Judicial Authorities | Effective: 2024-01-01
+    Official URL: https://cybercrime.gov.in
+
+[5] Shaurya Sunil Kumar Singh v. CBI (Supreme Court of India, 2026) - 56d69bdea2f4cdfa4dda16bb613e53c73a5caffa06e16588cc844b6d74bc8f5f1793904717.pdf (Part 2)
+    Title: Shaurya Sunil Kumar Singh v. CBI (Supreme Court of India, 2026) - Section 2
+    Authority: Government of India / RBI / Judicial Authorities | Effective: 2024-01-01
+    Official URL: https://cybercrime.gov.in
+
+
+======================================================================
+UNEDITED ASSISTANT RESPONSE:
+======================================================================
+### 🛡️ आपके कानूनी अधिकार और कानूनी स्थिति
+
+आपके साथ हुई वित्तीय धोखाधड़ी (धोखाधड़ी की राशि) के संबंध में भारतीय कानून, BNS 2023 और RBI परिपत्र आपके पक्ष में खड़े हैं:
+
+#### 1. लागू कानूनी धाराएं (Applicable Laws):
+- **भारतीय न्याय संहिता (BNS), 2023 - धारा 318:** छलपूर्वक पैसे निकलवाना और वित्तीय धोखाधड़ी (पुराना IPC Sec 420)।
+- **IT Act, 2000 - धारा 66D:** डिजिटल माध्यम से प्रतिरूपण (Impersonation / Phishing) द्वारा धोखाधड़ी।
+- **RBI मास्टर परिपत्र (RBI/2017-18/15):** ग्राहक की शून्य देयता (Zero Customer Liability) और सबूत का भार बैंक पर (पैरा 12)।
+
+#### 2. तत्काल आवश्यक कदम (Immediate Actions):
+- **हेल्पलाइन 1930:** तुरंत 1930 पर कॉल करें या [cybercrime.gov.in](https://cybercrime.gov.in) पर शिकायत करें।
+- **लिखित बैंक नोटिस:** ऊपर **Tab 2 (Notice Drafter)** से बैंक नोटिस डाउनलोड कर शाखा में जमा करें।
+
+---
+#### ❓ मामले को सटीक रूप से सुलझाने के लिए कृपया नीचे दी गई 3 बातों की जानकारी दें:
+1. **समय-सीमा (Timeline):** धोखाधड़ी किस तारीख को हुई और आपने बैंक को कब सूचित किया (3 दिन के भीतर या बाद में)?
+2. **धोखाधड़ी का तरीका:** क्या किसी ने AnyDesk/TeamViewer डाउनलोड कराया था या बिना किसी जानकारी के खाता डेबिट हुआ?
+3. **शिकायत की स्थिति:** क्या आपके पास बैंक शिकायत संख्या (Ticket ID) या 1930 की पावती संख्या (Ack No.) है?
+
+⚠️ *कानूनी अस्वीकरण: यह जानकारी जागरूकता और शिकायत निवारण हेतु है।*
+

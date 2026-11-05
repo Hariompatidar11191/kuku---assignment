@@ -1,0 +1,80 @@
+[
+  {
+    "id": "TEST_01_UPI_FRAUD_BANK_REJECTION",
+    "title": "Unauthorized UPI Debit & Arbitrary Bank Rejection",
+    "user_query": "Mere account se ₹50,000 UPI ke through fraud ho gaya. Maine kisi ko OTP nahi bataya. Bank meri complaint reject kar raha hai bolkar ki transaction PIN se hua hai. Ab main kya kar sakta hoon?",
+    "language": "hinglish",
+    "expected_statutes": [
+      "RBI/2017-18/15",
+      "Section 318 Bharatiya Nyaya Sanhita",
+      "Clause 8 Reserve Bank - Integrated Ombudsman Scheme, 2021"
+    ],
+    "key_legal_principles": [
+      "Zero customer liability when reported within 3 days",
+      "Burden of proof lies on the bank under paragraph 12",
+      "Escalation to Banking Ombudsman for compensation"
+    ]
+  },
+  {
+    "id": "TEST_02_REMOTE_ACCESS_ANYDESK",
+    "title": "Fake Customer Care Remote Screen-Share Scam",
+    "user_query": "Maine Google se ek courier company ka customer care number nikala tha. Unhone mujhe AnyDesk app download karne ko bola aur mere phone ka access leke ₹85,000 transfer kar liye. Kaunsi dhara lagegi?",
+    "language": "hinglish",
+    "expected_statutes": [
+      "Section 66D Information Technology Act, 2000",
+      "Section 318 Bharatiya Nyaya Sanhita, 2023",
+      "Section 319 Bharatiya Nyaya Sanhita, 2023"
+    ],
+    "key_legal_principles": [
+      "Cheating by personation using computer resource",
+      "Social engineering and unauthorized remote control",
+      "Golden Hour 1930 reporting"
+    ]
+  },
+  {
+    "id": "TEST_03_SIM_SWAP_FRAUD",
+    "title": "SIM Swap Leading to Total Account Siphoning",
+    "user_query": "My mobile network suddenly got deactivated. Within 3 hours, ₹2,40,000 was debited via net banking in multiple transfers before I could block the card. Can I claim full refund from the bank?",
+    "language": "english",
+    "expected_statutes": [
+      "Section 66C Information Technology Act, 2000",
+      "RBI/2017-18/15",
+      "State Bank of India vs. P.V. George"
+    ],
+    "key_legal_principles": [
+      "Identity theft under Sec 66C",
+      "Third party breach without customer fault",
+      "Bank fiduciary duty to prove customer negligence"
+    ]
+  },
+  {
+    "id": "TEST_04_POLICE_JURISDICTION_REFUSAL",
+    "title": "Police Refusal to Register Cyber FIR on Jurisdiction Grounds",
+    "user_query": "मैं अपने नजदीकी पुलिस थाने में ₹75,000 के साइबर फ्रॉड की एफआईआर दर्ज कराने गया था, लेकिन पुलिसकर्मियों ने कहा कि जिस खाते में पैसा गया है वह दूसरे राज्य (जामताड़ा) का है, इसलिए वे एफआईआर नहीं लिखेंगे। क्या वे मना कर सकते हैं?",
+    "language": "hindi",
+    "expected_statutes": [
+      "Section 173 Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "National Cyber Crime Reporting Portal (cybercrime.gov.in)"
+    ],
+    "key_legal_principles": [
+      "Mandatory Zero FIR irrespective of territory",
+      "e-FIR provisions under BNSS 2023"
+    ]
+  },
+  {
+    "id": "TEST_05_LOAN_APP_HARASSMENT",
+    "title": "Illegal Chinese Loan App Extortion & Morphed Photos",
+    "user_query": "An instant loan app accessed my gallery and contacts. Now recovery agents are sending morphed obscene photos to my family members on WhatsApp demanding extortion money. What legal action can I take immediately?",
+    "language": "english",
+    "expected_statutes": [
+      "Section 66E Information Technology Act, 2000",
+      "Section 318 Bharatiya Nyaya Sanhita, 2023",
+      "Digital Personal Data Protection Act, 2023"
+    ],
+    "key_legal_principles": [
+      "Privacy violation & transmission of obscene imagery",
+      "Criminal extortion and cyber stalking",
+      "Chakshu portal & National Cybercrime Reporting"
+    ]
+  }
+]

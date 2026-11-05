@@ -1,0 +1,239 @@
+   
+Sign in
+Home
+About Us
+AML Certification
+E-learning
+Contact Us
+Privacy Policy
+Refund Policy
+Terms and Conditions
+SIGN IN
+Welcome!Log into your account
+your username
+your password
+Forgot your password?
+PASSWORD RECOVERY
+Recover your password
+your email
+Home
+About Us
+AML Certification
+E-Learning
+Contact Us
+Sign In
+TECHNOLOGY FRAUDS
+Classification of Online Frauds
+By
+CA Mayur Joshi
+ Share
+More articles
+Frequently Asked Questions (FAQs) for Certified Anti Money Laundering Expert
+ 
+CSSE Fees and Program Inclusions
+ 
+Crack the CSSE Exam : Achieve Gold Standard Certification in Sanctions Screening
+ 
+Mastering Sanctions Screening with This Essential Guide: Your Key to Success in the CSSE Exam
+ 
+Vedant Sangit: Director of Academics at Indiaforensic
+CA Mayur Joshi
+CA Mayur Joshi is a Forensic Accounting evangelist in India. He is the co-founder of Indiaforensic and is author of 7 books on forensic accounting, fraud investigations and money laundering.
+
+Online frauds is one of the fraud schemes committed against the business or individual. Indiaforensic offers a certification program in forensic accounting. Fraud investigations are one of the most crucial aspects of the global certification program in forensic accounting. Frauds are divided into two aspects viz. frauds for the business or individual and frauds against the business or individual.
+
+Risk Academy offers a certification program in Digital Threats Analysis and discusses all of the below cyber threats in the syllabus.
+
+The year 2005 was marked by some big-ticket technology frauds.
+
+The invention of the computers has opened new avenues for the fraudsters. It is an evil having its origin in the growing dependence on computers in modern life. Though there is a great talk about cyber crimes there is nothing called cybercrime. Crimes such as fraud, and forgery are traditional and are covered by separate statutes such as the Indian Penal Code or alikes. However, the abuse of computer and related electronic media has given birth to a gamut of new types of crimes which has some peculiar features.
+
+A simple yet sturdy definition of online fraud would be “unlawful acts wherein the equipment transforming the information be it a computer or a mobile is either a tool or a target or both”. In India, the Information Technology Act deals with the acts wherein the computer is a tool for an unlawful act. This kind of activity usually involves a modification of a conventional crime by using computers. Here we explain some examples.
+
+Cyber pornography
+
+This would include pornographic websites; pornographic magazines produced using computers (to publish and print the material) and the Internet (to download and transmit pornographic pictures, photos, writings etc).
+
+The Delhi Public School is the hot issue in succession with the dirty clips of Miss. Jammu.11th standard student while having the oral sex recorded the clip of approximately 2.30 minutes by his mobile and circulated amongst his friends. The students were expelled from the school and two big arrests were also made in the same conjunction. Some more Indian incidents revolving around cyber pornography include the Air Force Balbharati School case. In the first case of this kind, the Delhi Police Cyber Crime Cell registered a case under section 67 of the IT act, 2000. A student of the Air Force Balbharati School, New Delhi, was teased by all his classmates for having a pockmarked face.
+
+Indiaforensic certification in Digital Currency Laundering
+
+He decided to get back. He created a website at the URL www.amazing-gents.8m.net. The website was hosted by him on free web space. It was dedicated to Air Force Bal Bharti School and contained text material. On this site, lucid, explicit,sexual details were given about various “sexy” girls and teachers of the school. Girls and teachers were also classified on the basis of their physical attributes and perceived sexual preferences. The website also became an adult boys’ joke amongst students.
+
+This continued for some time till one day, one of the boys told a girl, “featured” on the site, about it. The father of the girl, being an Air Force officer, registered a case under section 67 of the IT Act, 2000 with the Delhi Police Cyber Crime Cell.
+
+The police picked up the concerned student and kept him at Timarpur (Delhi) juvenile home. It was almost one week since the juvenile board granted bail to the 16- 16-year-old student.
+
+Sale of illegal articles
+
+This would include sale of narcotics, weapons and wildlife etc., by posting information on websites, auction websites, and bulletin boards or simply by using email communication. E.g. many of the auction sites even in India are believed to be selling cocaine in the name of ‘honey’. The clip of the DPS students was kept for selling on the site called Bazee.com by a student from IIT Kharagpur.
+
+Online gambling
+
+There are millions of websites; all hosted on servers abroad, that offer online gambling. In fact, it is believed that many of these websites are actually fronts for money laundering. Cases of hawala transactions and money laundering over the Internet have been reported. Whether these sites have any relationship with drug trafficking is yet to be explored. A recent Indian case about cyber lotto was very interesting. A man called Kola Mohan invented the story of winning the Euro Lottery. He himself created a website and an email address on the Internet with the address ‘eurolottery@usa.net.’ Whenever accessed, the site would name him as the beneficiary of the 12.5 million pounds. After confirmation, a telgu newspaper published this as news. He collected huge sums from the public as well as from some banks for mobilization of the deposits in foreign currency. However, the fraud came to light when a cheque discounted by him with the Andhra Bank for Rs 1.73 million bounced. Mohan had pledged with Andhra Bank the copy of a bond certificate purportedly issued by Midland Bank, Sheffields, London stating that a term deposit of 12.5 million was held in his name.
+
+Intellectual Property crimes
+
+These include software piracy, copyright infringement, trademarks violations, theft of computer source code etc. In cyber world  this is also referred to as cybersquatting. Indiaforensic Research Foundation has conducted a survey on cybersquatting in Indian Nationalised banks and has found that 22% of the domain names of Indian nationalized banks have been squatted. In addition to that Satyam Vs. Siffy is the most widely known case. Bharti Cellular Ltd. filed a case in the Delhi High Court that some cyber squatters had registered domain names such as bharticellular.com and bhartimobile.com with Network solutions under different fictitious names. The court directed Network Solutions not to transfer the domain names in question to any third party and the matter is sub-judice. Similar issues had risen before various High Courts earlier. Yahoo had sued one Akash Arora for the use of the domain name ‘Yahooindia.Com’ deceptively similar to its ‘Yahoo.com’. As this case was governed by the Trade Marks Act, of 1958, the additional defense taken against Yahoo’s legal action for the interim order was that the Trade Marks Act was applicable only to goods.
+
+Email spoofing
+
+A spoofed email is one that appears to originate from one source but actually has been sent from another source. E.g. Gauri has an e-mail address gauri@162.240.144.27. Her enemy, Prasad spoofs her e-mail and sends obscene messages to all her acquaintances. Since the e-mails appear to have originated from Gauri, her friends could take offence and relationships could be spoiled for life.
+
+Email spoofing can also cause monetary damage. In an American case, a teenager made millions of dollars by spreading false information about certain companies whose shares he had short sold. This misinformation was spread by sending spoofed emails, purportedly from news agencies like Reuters, to share brokers and investors who were informed that the companies were doing very badly. Even after the truth came out the values of the shares did not go back to the earlier levels and thousands of investors lost a lot of money.
+
+Recently, a branch of the Global Trust Bank experienced a run on the bank. Numerous customers decided to withdraw all their money and close their accounts. It was revealed that someone had sent out spoofed emails to many of the bank’s customers stating that the bank was in very bad shape financially and could close operations at any time. Unfortunately this information proved to be true in the next few days.
+
+But the best example of the email spoofing can be given by the Gujarat Ambuja Executive’s case. Where he pretended to be a girl and cheated the Abu dhabi based NRI for crores by blackmailing tactics.
+
+Online Frauds and Forgery
+
+Counterfeit currency notes, postage and revenue stamps, mark sheets etc can be forged using sophisticated computers, printers and scanners.
+
+Outside many colleges across India, one finds touts soliciting the sale of fake mark sheets or even certificates. These are made using computers, and high quality scanners and printers. In fact, this has becoming a booming business involving thousands of Rupees being given to student gangs in exchange for these bogus but authentic looking certificates.Some of the students are caught but this is very rare phenomenon.
+
+Cyber Defamation
+
+This occurs when defamation takes place with the help of computers and / or the Internet. E.g. someone publishes defamatory matter about someone on a website or sends e-mails containing defamatory information to all of that person’s friends.
+
+India’s first case of cyber defamation was reported when a company’s employee started sending derogatory, defamatory and obscene e-mails about its Managing Director. The e-mails were anonymous and frequent, and were sent to many of their business associates to tarnish the image and goodwill of the company.
+
+The company was able to identify the employee with the help of a private computer expert and moved the Delhi High Court. The court granted an ad-interim injunction and restrained the employee from sending, publishing and transmitting e-mails, which are defamatory or derogatory to the plaintiffs.
+
+Cyber stalking
+
+The Oxford dictionary defines stalking as “pursuing stealthily”. Cyber stalking involves following a person’s movements across the Internet by posting messages (sometimes threatening) on the bulletin boards frequented by the victim, entering the chat-rooms frequented by the victim, constantly bombarding the victim with emails etc.
+
+Ritu Kohli has the dubious distinction of being the first lady to register the cyber stalking case. A friend of her husband gave her telephonic number in the general chat room. The general chatting facility is provided by some websites like MIRC and ICQ. Where person can easily chat without disclosing his true identity. The friend of husband also encouraged this chatters to speak in slang language to Ms. Kohli.
+
+Now, let us examine some of the acts wherein the computer is the target for an unlawful act. It may be noted that in these activities the computer may also be a tool. This kind of activity usually involves sophisticated crimes usually out of the purview of conventional criminal law. Some examples are:
+
+Unauthorized access to computer systems or networks
+
+This activity is commonly referred to as hacking. The Indian law has, however, given a different connotation to the term hacking, so we will not use the term “unauthorized access” interchangeably with the term “hacking”. However, as per Indian law, unauthorized access does occur, if hacking has taken place.
+
+An active hackers’ group, led by one “Dr. Nuker”, who claims to be the founder of Pakistan Hackerz Club, reportedly hacked the websites of the Indian Parliament, Ahmedabad Telephone Exchange, Engineering Export Promotion Council, and United Nations (India).
+
+Email bombing
+
+Email bombing refers to sending a large number of emails to the victim resulting in the victim’s email account (in case of an individual) or mail servers (in case of a company or an email service provider) crashing.
+
+In one case, a foreigner who had been residing in Simla, India for almost thirty years wanted to avail of a scheme introduced by the Simla Housing Board to buy land at lower rates. When he made an application it was rejected on the grounds that the scheme was available only for citizens of India. He decided to take his revenge. Consequently he sent thousands of mails to the Simla Housing Board and repeatedly kept sending e-mails till their servers crashed.
+
+Data diddling
+
+This kind of an attack involves altering raw data just before it is processed by a computer and then changing it back after the processing is completed. Electricity Boards in India have been victims to data diddling programs inserted when private parties were computerizing their systems.
+
+Online frauds in NDMC Electricity Billing, which took place in 1996 is a typical example. The computer network was used for receipt and accounting of electricity bills by the NDMC, Delhi. Collection of money, computerized accounting, record maintenance and remittance in he bank were exclusively left to a private contractor who was a computer professional. He misappropriated huge amount of funds by manipulating data files to show less receipt and bank remittance.
+
+Salami attacks in Online Frauds
+
+These attacks are used for the commission of financial crimes. The key here is to make the alteration so insignificant that in a single case it would go completely unnoticed. E.g. a bank employee inserts a program, into the bank’s servers, that deducts a small amount of money (say Rs. 5 a month) from the account of every customer. No account holder will probably notice this unauthorized debit, but the bank employee will make a sizeable amount of money every month.
+
+To cite an example, an employee of a bank in USA was dismissed from his job. Disgruntled at having been supposedly mistreated by his employers the man first introduced a logic bomb into the bank’s systems. Logic bombs are programmes, which get activated on the occurrence of a particular predefined event.
+
+The logic bomb was programmed to take ten cents from all the accounts in the bank and put them into the account of the person whose name was alphabetically the last in the bank’s rosters. Then he went and opened an account in the name of Ziegler. The amount being withdrawn from each of the accounts in the bank was so insignificant that neither any of the account holders nor the bank officials noticed the fault.
+
+It was brought to their notice when a person by the name of Zygler opened his account in that bank. He was surprised to find a sizeable amount of money being transferred into his account every Saturday. Being an honest person, he reported the “mistake” to the bank authorities and the entire scheme was revealed.
+
+Denial of Service attack
+
+This involves flooding a computer resource with more requests than it can handle. This causes the resource (e.g. a web server) to crash thereby denying authorized users the service offered by the resource. Another variation to a typical denial of service attack is known as a Distributed Denial of Service (DDoS) attack wherein the perpetrators are many and are geographically widespread.
+
+It is very difficult to control such attacks. The attack is initiated by sending excessive demands to the victim’s computer(s), exceeding the limit that the victim’s servers can support and making the servers crash. Denial-of-service attacks have had an impressive history having, in the past, brought down websites like Amazon, CNN, Yahoo and eBay!
+
+Virus or worm attacks
+
+Viruses are programs that attach themselves to a computer or a file and then circulate themselves to other files and to other computers on a network. They usually affect the data on a computer, either by altering or deleting it. Worms, unlike viruses do not need the host to attach themselves to. They merely make functional copies of themselves and do this repeatedly till they eat up all the available space on a computer’s memory. The VBS_LOVELETTER virus (better known as the Love Bug or the ILOVEYOU virus) was reportedly written by a Filipino undergraduate.
+
+In May 2000, this deadly virus became the world’s most prevalent virus. It struck one in every five personal computers in the world. When the virus was brought under check the true magnitude of the losses was incomprehensible. Losses incurred during this virus attack were pegged at US $ 10 billion.
+
+Banking sector is becoming most affected to online frauds due to the banking trojans and viurses.  
+
+Online frauds using time theft
+
+This connotes the usage by an unauthorized person of the Internet hours paid for by another person. In May 2000, the Economic Offences Wing, IPR section crime branch of Delhi police registered its first case involving theft of Internet hours. In this case, the accused, Mukesh Gupta an engineer with Nicom System (p) Ltd. was sent to the residence of the complainant to activate his Internet connection. However, the accused used Col. Bajwa’s login name and password from various places causing a wrongful loss of 100 hours to Col. Bajwa. Delhi police arrested the accused for theft of Internet time.
+
+On further inquiry in the case, it was found that Krishan Kumar, son of an ex-army officer, working as a senior executive in M/s Highpoint Tours & Travels had used Col Bajwa’s login and passwords as many as 207 times from his residence and twice from his office. He confessed that Shashi Nagpal, from whom he had purchased a computer, gave the login and password to him.
+
+The police could not believe that time could be stolen. They were not aware of the concept of time theft at all. Colonel Bajwa’s report was rejected. He decided to approach The Times of India, New Delhi. They, in turn, carried out a report about the inadequacy of the New Delhi Police in handling cyber crimes.
+
+The Commissioner of Police, Delhi then took the case into his own hands and the police under his directions raided and arrested Krishan Kumar under sections 379, 411, 34 of IPC and section 25 of the Indian Telegraph Act. In another case, the Economic Offences Wing of Delhi Police arrested a computer engineer who got hold of the password of an Internet user, accessed the computer, and stole 107 hours of Internet time from the other person’s account. He was booked for the crime by a Delhi court in May 2000.
+
+Web jacking for online frauds
+
+This occurs when someone forcefully takes control of a website (by cracking the password and later changing it). The actual owner of the website does not have any more control over what appears on that website. In a recent incident reported in the USA the owner of a hobby website for children received an e-mail informing her that a group of hackers had gained control over her website. They demanded a ransom of 1 million dollars from her. The owner, a schoolteacher, did not take the threat seriously. She felt that it was just a scare tactic and ignored the e-mail.
+
+It was three days later that she came to know, following many telephone calls from all over the country, that the hackers had web jacked her website. Subsequently, they had altered a portion of the website which was entitled ‘How to have fun with goldfish’. In all the places where it had been mentioned, they had replaced the word ‘goldfish’ with the word ‘piranhas’.
+
+Piranhas are tiny but extremely dangerous flesh-eating fish. Many children had visited the popular website and had believed what the contents of the website suggested. These unfortunate children followed the instructions, tried to play with piranhas, which they bought from pet shops, and were very seriously injured!
+
+Online Frauds in BPO sector
+
+In addition to these schemes of fraud now a new breed of online frauds is taking birth on Indian shores. This breed is termed widely as BPO frauds. India have witnessed many online frauds and many allegations of frauds in the past few days. In the last issue we have reported about the BPO scam in Msource.
+
+After that there were two allegations on the Indian BPO units where a UK based English Newspaper – The Sun alleged that a call center employee tried selling the sensitive information about the British citizens to their reporter for small consideration. The online frauds is going to be the hot issue in the days to come and the sphere is going to increase. India needs to be prepared to tackle the online frauds otherwise it will create disasters.
+
+ 
+
+TAGSIndiaforensicMayur Joshi
+ Share
+Previous article
+Mayur Joshi – Founder of Indiaforensic
+Next article
+Contribute to Fraudtoday
+- Featured Certification-
+Latest
+Frequently Asked Questions (FAQs) for Certified Anti Money Laundering Expert
+ 
+CSSE Fees and Program Inclusions
+ 
+Crack the CSSE Exam : Achieve Gold Standard Certification in Sanctions Screening
+ 
+Mastering Sanctions Screening with This Essential Guide: Your Key to Success in the CSSE Exam
+ 
+Vedant Sangit: Director of Academics at Indiaforensic
+ 
+FATF lauds India’s efforts to combat Money Laundering and Terrorist Financing
+ 
+Certification Course in Audit Analytics for Graduate Students
+ 
+Troubled Social Media Accounts-Toolkit
+ 
+Skill Certifications in Risk, Compliance and Frauds in India
+ 
+Trust and Company Service Providers need to register with FIU-IND
+
+Forensic Accounting in India started with one word - Indiaforensic. With 12 Certifications in forensic accounting, Anti Money Laundering and Financial Crime Compliance, Indiaforensic are the pioneers of forensic accounting education in India.
+
+COMPANY
+
+Classification of High Risk Customers
+ 
+Skill Certifications in Risk, Compliance and Frauds in India
+ 
+Know the story of SIM Swap type of fraud in India
+
+CATEGORIES
+
+Technology Frauds
+28
+Banking Frauds
+26
+Forensic Accounting
+24
+Certification Programs
+21
+About Us
+19
+AML Certification
+13
+Know Your Customer
+12
+BANKING
+INSURANCE
+TECHNOLOGY
+MONEY LAUNDERING
+FORENSIC ACCOUNTING
+
+© All Rights Reserved with Riskpro

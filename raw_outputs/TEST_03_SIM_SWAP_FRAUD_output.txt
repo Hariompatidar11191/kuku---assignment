@@ -1,0 +1,60 @@
+TEST CASE ID: TEST_03_SIM_SWAP_FRAUD
+SCENARIO TITLE: SIM Swap Leading to Total Account Siphoning
+USER QUERY: My mobile network suddenly got deactivated. Within 3 hours, ₹2,40,000 was debited via net banking in multiple transfers before I could block the card. Can I claim full refund from the bank?
+LANGUAGE: english
+TIMESTAMP: 2026-11-06T01:14:14.221556
+RETRIEVAL RECALL: 100.0%
+
+======================================================================
+VERIFIED RETRIEVED SOURCES:
+======================================================================
+[1] Reserve Bank of India Master Circular - RBI/2017-18/15 (DBR.No.Leg.BC.78/09.07.005/2017-18)
+    Title: Customer Protection – Limiting Liability of Customers in Unauthorised Electronic Banking Transactions
+    Authority: Reserve Bank of India (RBI) | Effective: 2017-07-06
+    Official URL: https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11040&Mode=0
+
+[2] Reserve Bank - Integrated Ombudsman Scheme, 2021 - Clause 8 & Clause 10
+    Title: Grounds of Complaint and Award by Ombudsman
+    Authority: Reserve Bank of India (RBI) | Effective: 2021-11-12
+    Official URL: https://cms.rbi.org.in
+
+[3] National Consumer Disputes Redressal Commission (NCDRC) - Revision Petition No. 2728 of 2017
+    Title: Punjab National Bank vs. Leader Valves Ltd.
+    Authority: National Consumer Disputes Redressal Commission (NCDRC) | Effective: 2020-03-13
+    Official URL: https://indiankanoon.org/doc/194723049/
+
+[4] Legal Research Document: web_page_text (58).txt - web_page_text (58).txt (Part 2)
+    Title: Legal Research Document: web_page_text (58).txt - Section 2
+    Authority: Government of India / RBI / Judicial Authorities | Effective: 2024-01-01
+    Official URL: https://cybercrime.gov.in
+
+[5] Information Technology Act, 2000 (Section 70B) - CERT-In Directions No. 20(3)/2022-CERT-In (April 28, 2022)
+    Title: Mandatory Cyber Incident Reporting within 6 Hours and Log Retention
+    Authority: Indian Computer Emergency Response Team (CERT-In) / MeitY | Effective: 2022-06-28
+    Official URL: https://www.cert-in.org.in
+
+
+======================================================================
+UNEDITED ASSISTANT RESPONSE:
+======================================================================
+### 🛡️ Legal Rights & Statutory Protection
+
+Regarding the unauthorized financial debit (the defrauded amount), here is your legal standing under Indian statutory law and Reserve Bank of India (RBI) directions:
+
+#### 1. Core Statutory & Regulatory Provisions:
+- **RBI Master Circular RBI/2017-18/15:** Guarantees **Zero Customer Liability** when notified within 3 working days. Under Paragraph 12, the burden of proving customer liability lies strictly **ON THE BANK**.
+- **Bharatiya Nyaya Sanhita (BNS), 2023 - Section 318:** Criminalizes dishonest inducement and fraudulent cyber transactions (replacing Section 420 IPC).
+- **Information Technology Act, 2000 - Section 66D:** Penalizes cheating by personation and phishing with up to 3 years imprisonment.
+
+#### 2. Immediate Protective Steps:
+- **Dial 1930 (Golden Hour):** Trigger the Citizen Financial Cyber Fraud Reporting System to freeze suspect mule accounts.
+- **Issue Bank Notice:** Navigate to **Tab 2** to download your formal dispute notice.
+
+---
+#### ❓ To tailor the exact legal remedy for your case, please answer these 3 quick questions:
+1. **Timeline:** Exactly what date did the transaction occur, and on what date did you first notify the bank (within 3 days)?
+2. **Method of Fraud:** Did a caller deceive you into installing AnyDesk/TeamViewer, or did the debit happen without any interaction?
+3. **Current Grievance Status:** Did the bank issue a formal Ticket ID / Reference Number, and have you filed on cybercrime.gov.in?
+
+⚠️ *Legal Disclaimer: This guidance is for educational and dispute-resolution purposes under Indian law.*
+
